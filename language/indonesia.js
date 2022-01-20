@@ -95,7 +95,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu ARIL BOTZ :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -608,8 +608,8 @@ Goodbye`
 exports.source = () =>{
 return`*── 「 SOURCE 」 ──*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://github.com/zeeoneofc/Alphabot-Md
+Base : https://github.com
+Recode : https://github.com
 `
 }
 exports.tos = (ownernomer) => {
